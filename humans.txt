@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vlado Oravec	vlado.oravec@htecgroup.com	@vlado87
 
 # THANKS
 

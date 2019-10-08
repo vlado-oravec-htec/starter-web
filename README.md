@@ -16,3 +16,6 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 This is a simple web project where anyone can contribute
+
+### Copyright
+2019 Git.Traning.
